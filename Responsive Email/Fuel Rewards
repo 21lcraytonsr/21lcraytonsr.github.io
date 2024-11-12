@@ -1,0 +1,344 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmls="http://www.w3.org/1999/xhtml">
+<head>	
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0,">
+<meta name="format-detection" content="telephone=no">
+<Title>Fuel Rewards</Title>
+<style>
+#outlook a {padding: 0;}
+*[id]#main .ExternalClass {width: 100%;}
+*[id]#main .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass th, .ExternalClass div {line-height: 100%;}
+*[id]#main table th {border-collapse: collapse;font-weight:normal;text-align:left;}
+	*[id]#main table th a {text-align:left;}
+*[id]#main * {box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box;}
+*[id]#main { line-height: 100% !important;}
+*[id]#main #preview {display: none;}
+div, p, a, li, th { -webkit-text-size-adjust:none; }
+	
+/* MEDIA QUERIES */
+	
+	@media screen and (max-width: 600px){
+		
+		.main{
+			width:100% !important;
+		}
+		.adjust{
+			display:block !important;
+			Width:100% !important;
+			Padding:10px 0px 10px 0px !important;
+			height:auto !important;
+			text-align: center !important;
+			
+		}
+	}
+</style>
+</head>
+	<body width="100%" style="background-color:#E0E0E0;Margin:0;padding:0;">
+		<table  class="main" width="600" align="center" border="0" cellpadding="0" cellspacing="0" style="margin:auto;">
+			<tr>
+				<td width="100%" style="Margin:0;padding:0;background-color:#3A3A3A;text-align:center;">
+				<img src="http://static.cdn.responsys.net/i5/responsysimages/excentus/contentlibrary/!global_images/2015_brand/lockup_top.jpg" border="0" width="58" height="21" alt=" " style="display:inline-block;border:0;border:none;">
+				</td>
+			</tr>
+			<tr>
+				<td width="100%" height="10" style="margin:0;padding:0; background-color: #ffffff;">
+				</td>
+			</tr>
+			<tr>
+				<td  width="100" style="margin:0;padding:0; background-color:#ffffff;">
+					<table width="95%" align="center" border="0" cellpadding="0" cellspacing="0" style="margin:auto;">
+						<tr>
+							<td class="adjust" width="50" style="margin:0;padding:0;text-align:left;">
+							<img src="http://static.cdn.responsys.net/i5/responsysimages/excentus/contentlibrary/!global_images/2015_brand/logo_color.jpg" alt="Fuel Rewards" border="0" width="158" height="23" style="-ms-interpolation-mode: bicubic; display: block;">
+							</td>
+							<td class="adjust" width="50%" style="margin:0;padding:0;text-align:right;">
+							<a href="${form(campaign.name, { })}" rilt="view_in_browser" style=" color: #555555; text-decoration: none;  text-decoration: underline;-ms-interpolation-mode: bicubic; display: block; ">
+                                View in browser
+                            </a>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="100%" height="20" style="margin:0;padding:0;background-color:#ffffff;">
+					<hr width="100%" style="color:black;">
+				</td>
+			</tr>
+			<tr>
+				<td width="100%" height="30" style="Margin:0;padding:0;background-color:#ffffff;">
+				</td>
+			</tr>
+			<tr>
+				<td width="100%" style="margin:0;padding:0;background-color:#ffffff;">
+					<table width="60%" align="center" border="0" cellpadding="0" cellspacing="0" style="margin:auto;">
+						<tr>
+							<td width="100%" style="margin:0;padding:0;text-align:center;">
+								Time is running out to enter
+							</td>
+						<tr>
+							<td width="100%" style="margin:0;padding:0;text-align:center;">
+								Ford SUV Season Giveaway.
+							</td>
+						</tr>
+						<tr>
+							<td width="100%" height="20" style="Margin:0;padding:0;background-color:#ffffff;">
+							</td>
+						</tr>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="100%" style="margin:0; padding:0;background-color:#ffffff;">
+					<table width="60%" align="center" border="0" cellpadding="0" cellspacing="0" style="margin:auto;" >
+						<tr>
+							<td width="100%" style="margin:0;padding:0;text-align:center;">
+								Don't miss your chance to win a new Ford
+							</td>
+						</tr>
+						<tr>
+							<td td width="100%" style="margin:0;padding:0;text-align:center;">
+								SUV or a years worth of Shell fuel.
+							</td>
+						</tr>
+						<tr>
+							<td width="100%" height="20" style="Margin:0;padding:0;background-color:#ffffff;">
+							</td>	
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="100%" style="margin:0; padding:0;background-color:#ffffff; text-align:center;">
+					<table width="80%" align="center" border="0" cellpadding="0" cellspacing="0"style="margin:auto;">
+						<tr>
+							<td width="100%" style="margin:0; padding:0;text-align:center;">
+								<img src="http://static.cdn.responsys.net/i5/responsysimages/excentus/contentlibrary/!global_images/2015_brand/logo_color.jpg" alt="Fuel Rewards" border="0" width="158" height="23" style= "display:inline-block;">
+							</td>
+						</tr>
+						<tr>
+							<td width="100%" height="20" style="Margin:0;padding:0;background-color:#ffffff;">
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="100%" style="margin:0;padding:0; background-color:#ffffff;">
+					<table width="90%" align="center" border="0" cellpadding="0" cellspacing="0"style="margin:auto;">
+						<tr>
+							<td width="100%" style="margin:0;padding:0;text-align:center;">
+								Here's how to enter:
+							</td>
+						</tr>
+						<tr>
+							<td width="100%" height="10" style="Margin:0;padding:0;background-color:#ffffff;">
+							</td>
+						<tr>
+							<td width="100%" style="Margin:0;padding:0;background-color:#ffffff; text-align:center;">
+							Watch a short Ford SUV video.
+							</td>
+						</tr>
+						<tr>
+							<td width="100%" style="Margin:0;padding:0;background-color:#ffffff; text-align:center;">
+							Fill out an entry from with your name and contact info.
+							</td>
+						</tr>
+						<tr>
+							<td width="100%" style="Margin:0;padding:0;background-color:#ffffff; text-align:center;">
+							Share the Ford SUV Season Giveaway with your friends for additional entries.
+							</td>
+						</tr>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="100%" style="margin:0;padding:0; background-color:#ffffff;">
+					<table width="20%" align="center" border="0" cellpadding="0" cellspacing="0"style="margin:auto;">
+						<tr>
+							<td width="100%" height="40" style="Margin:0;padding:0;background-color:#ffffff;">
+							
+							</td>
+						</tr>
+						
+						<tr>
+							<td width="100%" style="height:30px;border-radius:50px;background-color:#e2231a;text-align:center;">
+                                                	<a href="https://www.fordeventgiveaway.com/?utm_source=Shell&amp;utm_medium=ShellEmail&amp;utm_campaign=SUV" rilt="cta" style="text-decoration:none;color:#ffffff;display:inline-block;line-height:30px;">enter now</a>
+                            </td>
+								
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="100%" style="amrgin:0;padding:0;background-color:#ffffff">
+					<table width=100% alaign="center" border="0" cellpadding="0" cellspacing="0" style="margin:auto;" >
+						<tr>
+							<td width="100%" height="20" style="margin:0;padding:0;">
+							</td>
+						</tr>
+						<tr>
+							<td width="100%" style="margin:0;padding:0;">
+								*NO PURCHASE OR PAYMENT NECESSARY TO ENTER TO WIN. A purchase will not increase your chances of winning. 50 US and DC. 18+ with valid driverse license. Sweepstakes begins 9/9/15 and ennd 5:00:00 pm EDT 11/2/15. Void Where prohidited. See official rules at <a href="http://www.fordeventgiveaway.com/rules.aspx" rilt="rules" style="text-decoration:none;color:#e2231a;">www.fordeventgiveaway.com/rules.aspx</a>
+								for prize descriptions, odds and full entry details.
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="100%" style="amrgin:0;padding:0;background-color:#ffffff">
+					<table width=100% alaign="center" border="0" cellpadding="0" cellspacing="0" style="margin:auto;">
+						<tr>
+							<td width="100%" height="40" style="margin:0;padding:0;">
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="100%" style="margin:0;padding:0;background-color:#3A3A3A;">
+					<table width=100% alaign="center" border="0" cellpadding="0" cellspacing="0" style="margin:auto;">
+						<tr>
+							<td width="100%" height="20" style="margin:0;padding:0;">
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>	
+				<td width="100%" style="margin:0;padding:0;background-color:#3A3A3A;">
+					<table width=50% alaign="center" border="0" cellpadding="0" cellspacing="0" style="margin:auto;">
+						
+						<tr>
+							<td style="margin:0;padding:0;text-align:center;">
+								<img src="http://static.cdn.responsys.net/i5/responsysimages/excentus/contentlibrary/!global_images/2015_brand/fb.jpg" border="0" width="26" height="26" alt=" " style="display:inline-block;">
+							</td>
+							<td style="margin:0;padding:0;text-align:center;">
+								<img src="http://static.cdn.responsys.net/i5/responsysimages/excentus/contentlibrary/!global_images/2015_brand/tw.jpg" border="0" width="26" height="26" alt=" " style="display:inline-block;">
+							</td>
+							<td style="margin:0;padding:0;text-align:center;">
+								<img src="http://static.cdn.responsys.net/i5/responsysimages/excentus/contentlibrary/!global_images/2015_brand/pn.jpg" border="0" width="26" height="26" alt=" " style="display:inline-block;">
+							</td>
+							<td style="margin:0;padding:0;text-align:center;">
+								<img src="http://static.cdn.responsys.net/i5/responsysimages/excentus/contentlibrary/!global_images/2015_brand/in.jpg" border="0" width="26" height="26" alt=" "  style="display:inline-block;">
+							</td>
+							<td style="margin:0;padding:0;text-align:center;">
+								<img src="http://static.cdn.responsys.net/i5/responsysimages/excentus/contentlibrary/!global_images/2015_brand/yt.jpg" border="0" width="26" height="26" alt=" " style="display:inline-block;">
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="100%" style="margin:0;padding:0;background-color:#3A3A3A;">
+					<table width=100% alaign="center" border="0" cellpadding="0" cellspacing="0" style="margin:auto;">
+						<tr>
+							<td width="100%" height="10" style="margin:0;padding:0;">
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="100%" height="50" style="margin:0;padding:0;background-color:#3A3A3A;">
+					<hr width="90%" style="color:#ffffff;">
+				</td>
+			</tr>
+			<tr>
+				<td width="100%" style="margin:0;padding:0;background-color:#3A3A3A;text-align:center;">
+					<table width="95%" align="center" border="0" cellpadding="0" cellspacing="0" style="margin:auto;">
+						<tr>
+							<td class="adjust" width="100%" height="10" colspan="3" style="margin:0;padding:0;background-color:#3a3a3a;">
+								<table width="100%" align="center" border="0" cellpadding="0" cellspacing="0" style="margin:auto;" >
+									<tr>
+										<td width="100%"  style="margin:0;padding:0;">
+										</td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+						<tr>
+							<td class="adjust" width="50%" style="margin:0;padding:0;background-color:#3A3A3A;text-align:left;background-color:#3a3a3a;" >
+								<table width="100%" align="center" border="0" cellpadding="0" cellspacing="0" style="margin:auto;">
+									<tr>
+										<td width= "100%" style="margin:0;padding:0;">
+										<img src="http://static.cdn.responsys.net/i5/responsysimages/excentus/contentlibrary/!global_images/2015_brand/logo_white.jpg" alt="Fuel Rewards" border="0" width="168" height="26" style= "display:inline-block;">
+										</td >
+									</tr>
+								</table>	
+							</td>		
+							<td class="adjust" width="40%" style="margin:0;padding:0;text-align:center; background-color:#3a3a3a;" >
+								<table width="100%" align="center" border="0" cellpadding="0" cellspacing="0" style="margin:auto;">
+									<tr>
+										<td width="100%" style="margin:0;padding:0; ">
+										<p style="color:#ffffff;">Shell is the national fuel provider of the Fuel rewards program. Participation varies by market.</p>
+										</td>
+									</tr>
+								</table>
+							</td>
+							<td class="adjust" width="10" style="margin:0;padding:0;text-align:right;background-color:#3a3a3a;">
+								<table width="100%" align="center" border="0" cellpadding="0" cellspacing="0" style="margin:auto;">
+									<tr>
+										<td width="100%" style="margin:0;padding:0; ">
+										<img src="http://static.cdn.responsys.net/i5/responsysimages/excentus/contentlibrary/!global_images/2015_brand/pectin.jpg" alt="Shell" border="0" width="44" height="41" style="display:inline-block;border:0;border:none;margin:0;padding:0;border-collapse:collapse;">
+										</td>
+									</tr>
+								</table>
+							</td>
+										
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="100%" style="margin:0;padding:0; background-color:#3a3a3a;">
+					<table width="95%" align="center" border="0" cellspacing="0" style="margin:auto;">
+						<tr>
+							<td class="adjust" width="30%" style="margin:0;padding:0;text-align:left;">
+								<table width="100%" align="center" border="0" cellspacing="0" style="margin:auto;" >
+									<tr>
+										<td>
+										<p style="color:#ffffff;">14241 Dallas Parkway Suite 1200 Dallas, Tx 75254 Copyright&copy; 2009-2015 Excentus.
+										All rights reserved</p>
+										</td>
+									</tr>
+								</table>
+							</td>
+							<td  class="adjust" width="20%" style="margin:0;padding:0; background-color:#3a3a3a;">
+								<table>
+									<tr>
+										<td width="100%" style="margin:0;padding:0;" >
+										</td>
+									</tr>
+								</table>
+							</td>
+							<td class="adjust" width="50%" width="100" style="margin:0;padding:0;">
+								<table width="100%" align="center" border="0" cellspacing="0" style="margin:auto;">
+									<tr>
+										<td style="margin:0;padding:0;text-align:center;">
+											<a class="bypass" href="https://www.fuelrewards.com/fuelrewards/terms-conditions" rilt="terms" style=" color: #cccccc; text-decoration: none;  text-decoration: underline;">Terms</a>
+										</td>
+										<td style="margin:0;padding:0;text-align:center;">
+											<a class="bypass" href="https://www.fuelrewards.com/privacy.html" rilt="privacy" style=" color: #cccccc; text-decoration: none;  text-decoration: underline;">Privacy</a>
+										</td>
+										<td style="margin:0;padding:0;text-align:center;">
+											<a class="bypass" href="https://www.fuelrewards.com/fuelrewards/contact.html" rilt="support" style=" color: #cccccc; text-decoration: none;  text-decoration: underline;">Support</a>
+										</td>
+										<td style="margin:0;padding:0;text-align:center;">
+											<a class="bypass" href="${environment.unsubscribelink}" rilt="unsubscribe" style=" color: #cccccc; text-decoration: none;  text-decoration: underline;">Unsubscribe</a>
+										</td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</body>
+</html>
